@@ -1,7 +1,7 @@
 require('./db/mongoose');
 const express = require('express');
 const app = express();
-const port = 3001;
+const port = process.env.PORT || 3001;
 const Product = require('./model/products');
 
 app.use(express.json());
