@@ -3,6 +3,8 @@
 Levantar el proyecto local:
 
     Descarga del repo
+    
+    Prueba para comprobar si la edición es correcta.
 
     Instalar módulos en el /website y en la /api
 
